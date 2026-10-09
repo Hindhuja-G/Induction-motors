@@ -1,0 +1,6 @@
+{
+  "name": "IoT Motor Health Monitoring & Predictive Maintenance",
+  "description": "Industrial IoT condition monitoring, health score analysis, trend detection, multi-parameter fault diagnostics, and automated relay protection system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
